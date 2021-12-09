@@ -604,7 +604,7 @@
     "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 20.0
+        "y": 5.0
     }
 }
 
@@ -1286,8 +1286,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1098.0001220703125,
-            "y": 153.00003051757813,
+            "x": -1091.0,
+            "y": 162.0,
             "width": 208.0,
             "height": 374.0
         }
@@ -1314,7 +1314,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_PreviewMode": 2,
     "m_CustomColors": {
         "m_SerializableColors": []
@@ -1964,8 +1964,8 @@
     "m_ObjectId": "f2f92797ae664fde9e59d40a6b2eb707",
     "m_Title": "Reflection Texture",
     "m_Position": {
-        "x": -1287.0001220703125,
-        "y": 81.99999237060547
+        "x": -1286.0,
+        "y": 82.0000228881836
     }
 }
 
