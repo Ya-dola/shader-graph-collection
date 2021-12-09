@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rec Holo Card
+  m_Shader: {fileID: -6465566751694194690, guid: 01a5e47b6b7b82a4c9c543b161559c65, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_407d201c736a4f2b927ab2c4ba0df634:
+        m_Texture: {fileID: 8900000, guid: eea9d7ec9fe4c6b459eadfc738a89e44, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_6df61ef67dda43c791310c3f2c8c75ac:
+        m_Texture: {fileID: 2800000, guid: 342b0f6971b5548478e84f15059bb7ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8e5aaca4c4e74140ac294a827e0e1f28:
+        m_Texture: {fileID: 2800000, guid: 5e17158612183a04a90e3aa57cbf8d4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_cc6018c8ddf84cea8b185c450e726554:
+        m_Texture: {fileID: 2800000, guid: 9ff68be16439cb84dbb9ca187356ac0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f6c08a26b46141aebfede1cdf0e60317:
+        m_Texture: {fileID: 2800000, guid: 154fdbc7272595946b3abade7d9dba67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_12166f9ab73c4a5f994d5d713a29e24b: 4
+    - Vector1_1f5418732600456aade7a9cf09b82f33: 0.372
+    - Vector1_299e392c8cce49dba7e8dc1e0a850163: 0.6
+    - Vector1_59a615772a784d7fa77a847ef79e477c: 1.4
+    - Vector1_9616bbd008ec4a2f866603320d758918: 0.125
+    - Vector1_b5177c949d08448b9edd671c61bc5c0a: 0.8
+    - Vector1_d78e356b31a646599f8b2e52df81013a: 0.8
+    - Vector1_d84cddaa171d4e60a3cab6bf362dec76: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!114 &4121379795770561805
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
